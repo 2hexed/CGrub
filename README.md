@@ -3,7 +3,7 @@
 
 # Installation
 
-+ **Install it using**
++ **Install it using:**
 
 ```bash
 git clone https://github.com/2hexed/CGrub.git
